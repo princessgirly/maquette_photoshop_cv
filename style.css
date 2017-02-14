@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: #C4C4C4;
+}
+h1 {
+  color: #ff66ff;
+}
+h1, h2 {
+  margin-top: 5%;
+}
+img {
+  margin-bottom: 5%;
+}
+#mobile1, #desktop1 {
+  margin-right: 5%;
+}
+footer {
+  margin-top: 5%;
+}
+#lien {
+  margin-top: -5%;
+}
+#fin {
+  margin-top: 5%;
+}
